@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "description": "A twitter streaming app, built with socket.io, express and Twitter streaming API",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "express": "~4.9.5",
