@@ -16,7 +16,7 @@ Install dependencies:
 $ npm install
 ```
 
-To use Twitter streaming API, you'll need to obtain access token key and secret from [Twitter Application Management Site][twitterapps]. Edit `config.json` and insert keys to the file.
+To use Twitter streaming API, you'll need to obtain access token key and secret from [Twitter Application Management Site][twitterapps], and insert keys  to `config.json`.
 
 Start server:
 
