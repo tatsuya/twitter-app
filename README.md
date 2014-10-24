@@ -6,6 +6,8 @@
 
 A twitter streaming app, built with [socket.io](http://socket.io/), [express](http://expressjs.com/) and Twitter Streaming API.
 
+![](demo.gif)
+
 ## Installation
 
 Install dependencies:
