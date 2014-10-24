@@ -1,5 +1,9 @@
 # Twitter App
 
+> Lost time is never found again.
+>
+> &mdash; Benjamin Franklin
+
 A twitter streaming app, built with [socket.io](http://socket.io/), [express](http://expressjs.com/) and Twitter Streaming API.
 
 ## Installation
